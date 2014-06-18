@@ -37,6 +37,7 @@
 - [Giving your development more Grunt (presentation on Grunt)](http://www.futureinsights.com/home/giving-your-development-more-grunt.html)
 - [Giving your development more Grunt (slide deck)](https://speakerdeck.com/jackfranklin/giving-your-development-more-grunt-fowa-london-2013)
 - [Creating your first Grunt plugin](http://javascriptplayground.com/blog/2014/01/creating-your-first-grunt-plugin/)
+- [Grunt deployment with sshexec](http://justinklemm.com/grunt-js-deployment-ssh-git/)
 
 # Yeoman
 - [Yeoman.io](http://yeoman.io/)
