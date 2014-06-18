@@ -12,6 +12,7 @@
 - [gulp-livereload](https://github.com/vohof/gulp-livereload)
 - [gulp-connect](https://github.com/avevlad/gulp-connect)
 - [gulp-notify](https://github.com/mikaelbr/gulp-notify)
+- [gulp-plumber](https://github.com/floatdrop/gulp-plumber)
 
 ## Further Reading
 - [An Introduction to Gulp](http://javascriptplayground.com/blog/2014/02/an-intro-to-gulp/)
