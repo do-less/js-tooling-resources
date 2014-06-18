@@ -11,6 +11,7 @@
 - [gulp-ruby-sass](https://github.com/sindresorhus/gulp-ruby-sass)
 - [gulp-livereload](https://github.com/vohof/gulp-livereload)
 - [gulp-connect](https://github.com/avevlad/gulp-connect)
+- [gulp-notify](https://github.com/mikaelbr/gulp-notify)
 
 ## Further Reading
 - [An Introduction to Gulp](http://javascriptplayground.com/blog/2014/02/an-intro-to-gulp/)
@@ -30,6 +31,7 @@
 - [grunt-contrib-connect](https://github.com/gruntjs/grunt-contrib-connect)
 - [grunt-contrib-uglify](https://github.com/gruntjs/grunt-contrib-uglify)
 - [grunt-notify](https://github.com/dylang/grunt-notify)
+- [grunt-concurrent](https://github.com/sindresorhus/grunt-concurrent)
 
 ## Further Reading
 - [Giving your development more Grunt (presentation on Grunt)](http://www.futureinsights.com/home/giving-your-development-more-grunt.html)
