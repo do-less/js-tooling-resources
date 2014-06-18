@@ -29,6 +29,7 @@
 - [grunt-contrib-sass](https://github.com/gruntjs/grunt-contrib-sass)
 - [grunt-contrib-connect](https://github.com/gruntjs/grunt-contrib-connect)
 - [grunt-contrib-uglify](https://github.com/gruntjs/grunt-contrib-uglify)
+- [grunt-notify](https://github.com/dylang/grunt-notify)
 
 ## Further Reading
 - [Giving your development more Grunt (presentation on Grunt)](http://www.futureinsights.com/home/giving-your-development-more-grunt.html)
