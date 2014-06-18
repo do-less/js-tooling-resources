@@ -41,6 +41,7 @@
 # Yeoman
 - [Yeoman.io](http://yeoman.io/)
 - [Embracing Command Line Tooling](http://javascriptplayground.com/blog/2014/03/command-line-backbone-yeoman/)
+- [Writing your own Yeoman Generators](http://code.tutsplus.com/tutorials/build-your-own-yeoman-generator--cms-20040)
 
 # Bower
 - [Bower.io](http://bower.io)
