@@ -18,6 +18,7 @@
 - [An Introduction to Gulp](http://javascriptplayground.com/blog/2014/02/an-intro-to-gulp/)
 - [Managing your build tasks with Gulp](http://code.tutsplus.com/tutorials/managing-your-build-tasks-with-gulpjs--net-36910)
 - [JS Jabber: GulpJS (podcast)](http://javascriptjabber.com/097-jsj-gulp-js-with-eric-schoffstall/)
+- [Building with Gulp](http://www.smashingmagazine.com/2014/06/11/building-with-gulp/?utm_content=buffer95018&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
 
 # Grunt
 - [GruntJS](http://gruntjs.com/)
