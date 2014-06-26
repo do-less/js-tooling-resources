@@ -34,6 +34,7 @@
 - [grunt-contrib-uglify](https://github.com/gruntjs/grunt-contrib-uglify)
 - [grunt-notify](https://github.com/dylang/grunt-notify)
 - [grunt-concurrent](https://github.com/sindresorhus/grunt-concurrent)
+- [time-grunt](https://github.com/sindresorhus/time-grunt)
 
 ## Further Reading
 - [Giving your development more Grunt (presentation on Grunt)](http://www.futureinsights.com/home/giving-your-development-more-grunt.html)
